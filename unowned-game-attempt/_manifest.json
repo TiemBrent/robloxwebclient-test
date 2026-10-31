@@ -1,0 +1,505 @@
+{
+  "url": "https://play.roblox.com/games/start?placeId=100911362514791",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0",
+  "at": "2026-10-31T22:42:24.067Z",
+  "version": "5.0.2",
+  "files": [
+    {
+      "key": "https://play.roblox.com/games/start?placeId=100911362514791",
+      "name": "play.roblox.com/games/start.html__9d7abx",
+      "size": 12272,
+      "type": "text/html",
+      "source": "seed",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/games/start?placeId=100911362514791#inline-js-3912630762",
+      "name": "_inline/play.roblox.com/1sph97u.js",
+      "size": 224,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "size": 112594,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/webpack-e0bb929a25869d53.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/webpack-e0bb929a25869d53.js",
+      "size": 1338,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/framework-a6e0b7e30f98059a.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/framework-a6e0b7e30f98059a.js",
+      "size": 139834,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/main-659e7f080afa74df.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/main-659e7f080afa74df.js",
+      "size": 134530,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/pages/_app-e6353f9ec2821d4a.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/pages/_app-e6353f9ec2821d4a.js",
+      "size": 789,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/pages/games/start-59a2c24f923806d3.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/chunks/pages/games/start-59a2c24f923806d3.js",
+      "size": 4070,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/oZ8_CY33a0v3QcT39qLGB/_buildManifest.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/oZ8_CY33a0v3QcT39qLGB/_buildManifest.js",
+      "size": 788,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/oZ8_CY33a0v3QcT39qLGB/_ssgManifest.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/oZ8_CY33a0v3QcT39qLGB/_ssgManifest.js",
+      "size": 77,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.js",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.js",
+      "size": 128775,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/webclient/WasmLoader.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/webclient/WasmLoader.js",
+      "size": 9823,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WasmPlayer.js",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WasmPlayer.js",
+      "size": 34141,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/favicon.svg",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/favicon.svg",
+      "size": 864,
+      "type": "image/svg+xml",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/css/013764c92c3496c2.css",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/_next/static/css/013764c92c3496c2.css",
+      "size": 9904,
+      "type": "text/css",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://tr.rbxcdn.com/180DAY-1d6d31d892f39aeafdeea108f42d4cbd/768/432/Image/Png/noFilter",
+      "name": "tr.rbxcdn.com/180DAY-1d6d31d892f39aeafdeea108f42d4cbd/768/432/Image/Png/noFilter.png",
+      "size": 458263,
+      "type": "image/png",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://tr.rbxcdn.com/180DAY-0f1849e64b76e70e96b4051e43296b62/256/256/Image/Png/noFilter",
+      "name": "tr.rbxcdn.com/180DAY-0f1849e64b76e70e96b4051e43296b62/256/256/Image/Png/noFilter.png",
+      "size": 132904,
+      "type": "image/png",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/cancelButton.png",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/cancelButton.png",
+      "size": 1703,
+      "type": "image/png",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Bold.otf",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Bold.otf",
+      "size": 77840,
+      "type": "font/otf",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Medium.otf",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Medium.otf",
+      "size": 77856,
+      "type": "font/otf",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Regular.otf",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/BuilderSans-Regular.otf",
+      "size": 77352,
+      "type": "font/otf",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://apis.roblox.com/universes/v1/places/100911362514791/universe",
+      "name": "apis.roblox.com/universes/v1/places/100911362514791/universe.json",
+      "size": 25,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://users.roblox.com/v1/users/authenticated",
+      "name": "users.roblox.com/v1/users/authenticated.json",
+      "size": 59,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://games.roblox.com/v1/games?universeIds=9662130710",
+      "name": "games.roblox.com/v1/games.json__14dg5sf",
+      "size": 1378,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://clientsettings.roblox.com/v2/user-channel?binaryType=WebClientApp",
+      "name": "clientsettings.roblox.com/v2/user-channel.json__5zq2be",
+      "size": 22,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://clientsettings.roblox.com/v2/client-version/WebClientApp",
+      "name": "clientsettings.roblox.com/v2/client-version/WebClientApp.json",
+      "size": 103,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://economy.roblox.com/v2/assets/100911362514791/details",
+      "name": "economy.roblox.com/v2/assets/100911362514791/details.json",
+      "size": 1213,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://clientsettingscdn.roblox.com/v2/settings/application/WebClientApp",
+      "name": "clientsettingscdn.roblox.com/v2/settings/application/WebClientApp.json",
+      "size": 1350977,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://thumbnails.roblox.com/v1/games/icons?universeIds=9662130710&returnPolicy=PlaceHolder&size=256x256&format=Png&isCircular=false",
+      "name": "thumbnails.roblox.com/v1/games/icons.json__vxy88r",
+      "size": 172,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=9662130710&countPerUniverse=1&defaults=true&size=768x432&format=Png&isCircular=false",
+      "name": "thumbnails.roblox.com/v1/games/multiget/thumbnails.json__qokmad",
+      "size": 231,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://locale.roblox.com/v1/locales/user-localization-locus-supported-locales",
+      "name": "locale.roblox.com/v1/locales/user-localization-locus-supported-locales.json",
+      "size": 677,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.metadata.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.metadata.json",
+      "size": 222112,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/webclient/stub.js?src=https%3A%2F%2Fsetup.rbxcdn.com%2Fwebclient%2Fversion-75f1039cb4964863-RobloxWebClient%2FWebClient.js",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/webclient/stub.js__1nkzufp",
+      "size": 1687,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+      "size": 252,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/families/SourceSansPro.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/families/SourceSansPro.json",
+      "size": 1496,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Light.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Light.ttf",
+      "size": 268588,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Regular.ttf",
+      "size": 269108,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/ExtraContent/models/InExperience/InExperience.rbxm",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/ExtraContent/models/InExperience/InExperience.rbxm",
+      "size": 14330707,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-It.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-It.ttf",
+      "size": 94816,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Semibold.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Semibold.ttf",
+      "size": 268280,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Bold.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/SourceSansPro-Bold.ttf",
+      "size": 267388,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/families/Arimo.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/families/Arimo.json",
+      "size": 965,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/Arimo-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/Arimo-Regular.ttf",
+      "size": 317652,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/Arimo-Bold.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/Arimo-Bold.ttf",
+      "size": 318184,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/TwemojiMozilla.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/TwemojiMozilla.ttf",
+      "size": 1324332,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.wasm",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/WebClient.wasm",
+      "size": 100515451,
+      "type": "application/wasm",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/RobloxEmoji.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/RobloxEmoji.ttf",
+      "size": 1860,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansThaiUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansThaiUI-Regular.ttf",
+      "size": 39288,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansSinhalaUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansSinhalaUI-Regular.ttf",
+      "size": 309464,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansMyanmarUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansMyanmarUI-Regular.ttf",
+      "size": 191096,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/PlatformContent/pc/fonts/NotoSansCJKjp-Regular.otf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/PlatformContent/pc/fonts/NotoSansCJKjp-Regular.otf",
+      "size": 16427228,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansKhmerUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansKhmerUI-Regular.ttf",
+      "size": 75108,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansGeorgian-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansGeorgian-Regular.ttf",
+      "size": 41656,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansDevanagariUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansDevanagariUI-Regular.ttf",
+      "size": 199888,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansBengaliUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoSansBengaliUI-Regular.ttf",
+      "size": 190928,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoNaskhArabicUI-Regular.ttf",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/fonts/NotoNaskhArabicUI-Regular.ttf",
+      "size": 281232,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/shaders/shaders_glsles3_web.pack",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/shaders/shaders_glsles3_web.pack",
+      "size": 4238978,
+      "type": "binary/octet-stream",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/SourceSansPro-Semibold.ttf",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/SourceSansPro-Semibold.ttf",
+      "size": 268280,
+      "type": "font/ttf",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/SourceSansPro-Regular.ttf",
+      "name": "play.roblox.com/038e4bd621bee962e64ed84fac16608407267adc/assets/loading/SourceSansPro-Regular.ttf",
+      "size": 269108,
+      "type": "font/ttf",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/audio-processor-fast.js",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/audio-processor-fast.js",
+      "size": 2038,
+      "type": "text/javascript",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+      "size": 253,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    },
+    {
+      "key": "https://setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/guac/defaultConfigs/GuacDefaultPolicy-GlobalDist.json",
+      "name": "setup.rbxcdn.com/webclient/version-75f1039cb4964863-RobloxWebClient/content/guac/defaultConfigs/GuacDefaultPolicy-GlobalDist.json",
+      "size": 10094,
+      "type": "application/json",
+      "source": "static",
+      "meta": null
+    }
+  ],
+  "requests": []
+}

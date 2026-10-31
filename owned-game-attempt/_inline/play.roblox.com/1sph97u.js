@@ -1,0 +1,1 @@
+{"props":{"pageProps":{}},"page":"/games/start","query":{},"buildId":"oZ8_CY33a0v3QcT39qLGB","assetPrefix":"/038e4bd621bee962e64ed84fac16608407267adc","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}
